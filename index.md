@@ -1,2 +1,2 @@
+![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
